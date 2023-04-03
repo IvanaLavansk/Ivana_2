@@ -1,15 +1,12 @@
 Ivana Yantra
-============
 ![Мое Фото](https://joseinextdoor.files.wordpress.com/2015/09/screenshot_2015-09-22-16-33-48.png)
 
 ============
-
 -------------------     ----------------------------
 1 MyAddress                        email@example.com
 MyTown 1000                          @twitter_handle
 MyCountry                           1800 my-phone-nr
 -------------------     ----------------------------
-
 
 Education
 ---------
