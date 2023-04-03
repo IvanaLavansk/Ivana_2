@@ -1,4 +1,7 @@
-Ivana Yantra
+# Ivana Alexandrovna Yantra
+## **Специалист службы качества** 
+### Дата рождения : _17.10.2000_
+### Полных лет: _22_
 ![Мое Фото](https://joseinextdoor.files.wordpress.com/2015/09/screenshot_2015-09-22-16-33-48.png)
 
 ============
